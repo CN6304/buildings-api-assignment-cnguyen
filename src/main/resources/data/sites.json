@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Measurabl HQ",
+    "address": "707 Broadway Suite 1000",
+    "city": "San Diego",
+    "state": "CA",
+    "zipcode": "92101"
+  },
+  {
+    "id": 2,
+    "name": "Arclight",
+    "address": "4425 La Jolla Village Dr",
+    "city": "San Diego",
+    "state": "CA",
+    "zipcode": "92122"
+  },
+  {
+    "id": 3,
+    "name": "TGI Fridays",
+    "address": "743 Fifth Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zipcode": "92101"
+  },
+  {
+    "id": 4,
+    "name": "Tavern+Bowl East Village",
+    "address": "930 Market St",
+    "city": "San Diego",
+    "state": "CA",
+    "zipcode": "92101"
+  },
+  {
+    "id": 5,
+    "name": "Bellagio",
+    "address": "3600 S Las Vegas Blvd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zipcode": "89109"
+  },
+  {
+    "id": 6,
+    "name": "Petco Park",
+    "address": "100 Park Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zipcode": "92101"
+  }
+]
